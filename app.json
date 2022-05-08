@@ -11,7 +11,7 @@
          "tianabot",
          "telegram"
       ],   
-   "repository": "https://github.com/Prince-Botz/TianaBot",
+   "repository": "https://github.com/Team-techno/test",
    "addons": [
       {
          "options": {
@@ -52,12 +52,12 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1218405248"
+         "value": "5307899310"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
          "required": true,
-         "value": ""
+         "value": "5382543770"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -69,34 +69,34 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PrincexBots"
+         "value": "Saur12p"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
-         "value": "Tiana_Prince_Bot"
+         "value": "Test_r_o_bot"
       },
       "ASS_USERNAME": {
          "description": "Your Musicbot Assistant username without the @",
-         "value": "TianaxAssistant"
+         "value": "Technomusicassistant"
       },
       "BOT_NAME": {
          "description": "Your Bot Name",
-         "value": "Tiana"
+         "value": "Techno"
       },
       "UPDATE_CHANNEL": {
          "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
          "required": true,
-         "value": "TianaxUpdates"
+         "value": "TechnobotUpdate"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
          "required": true,
-         "value": "TianaxSupport"
+         "value": "technobotSupport"
       },
       "START_IMG": {
          "description": "Enter Your Bot Image Telegraph Link",
          "required": true,
-         "value": ""
+         "value": "https://telegra.ph/file/bd582592ed4797bbbb96e.jpg"
       },
       "BOT_TUT": {
          "description": "Enter Your Bot Setup Video Tutorial Telegraph Link Leave As it is If You Dont Have",
@@ -116,17 +116,17 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001551902562"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001551902562"
       },      
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": ""
+         "value": "5382543770"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",

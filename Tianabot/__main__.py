@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
                     sql.num_chats()),
                 reply_markup=InlineKeyboardMarkup(
                  [
-                  [InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/prince-botz/tianabot"), 
+                  [InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/Team-techno/techno"), 
                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")]
                  ]
               ),

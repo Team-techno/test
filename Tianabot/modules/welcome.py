@@ -23,7 +23,7 @@ from Tianabot.modules.helper_funcs.chat_status import (
     is_user_ban_protected,
     user_admin,
 )
-from.Tianabot.modules.helper_funcs.misc import build_keyboard, revert_buttons
+from Tianabot.modules.helper_funcs.misc import build_keyboard, revert_buttons
 from Tianabot.modules.helper_funcs.msg_types import get_welcome_type
 from Tianabot.modules.helper_funcs.string_handling import (
     escape_invalid_curly_brackets,
